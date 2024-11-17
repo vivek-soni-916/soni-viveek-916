@@ -1,4 +1,3 @@
-# soni-vivek-916
 # Hi there 👋 I'm Vivek Soni  
 
 Welcome to my GitHub profile! I am a passionate Machine Learning Engineer and Data Enthusiast with a strong foundation in building scalable data solutions and innovative AI models.  
