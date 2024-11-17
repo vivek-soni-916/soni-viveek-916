@@ -20,21 +20,6 @@ Welcome to my GitHub profile! I am a passionate Machine Learning Engineer and Da
 
 ---
 
-## 🛠️ Featured Projects  
-
-### [Malware Analysis Using Machine Learning](https://github.com/vivek-soni-916/malware-analysis)  
-- Developed pipelines for malware detection using CNN models.  
-- Focused on static and dynamic analysis for executable byte image classification.  
-
-### [Image Captioning](https://github.com/vivek-soni-916/image-captioning)  
-- Built an image captioning system utilizing CNNs for image feature extraction and RNNs with attention layers for descriptive language modeling.  
-
-### [Real-Time Analytics Pipeline](https://github.com/vivek-soni-916/etl-analytics)  
-- Ingested data using Kafka and processed it with Spark Structured Streaming.  
-- Stored structured data in Azure Blob Storage and created visual dashboards in Tableau.  
-
----
-
 ## 📊 GitHub Stats  
 
 ![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivek-soni-916&show_icons=true&theme=radical)  
